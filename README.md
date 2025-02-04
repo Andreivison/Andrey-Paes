@@ -12,4 +12,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 
 ## 📊 Estatísticas do GitHub  
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=zandro&show_icons=true&theme=radical)  
+!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey&Paesicons=true&theme=radical)  
